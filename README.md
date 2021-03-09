@@ -1,4 +1,4 @@
-# BrazilianSentimentCorpus
+# A corpus for offensive language detection and sentiment analysis in Brazilian Portuguese
 Mini-project for the Linguistic Corpus Annotation course at the University of Tübingen, Winter semester 2020/2021.
 
 # Goals
@@ -9,8 +9,14 @@ Mini-project for the Linguistic Corpus Annotation course at the University of T�
 - Analyze the different ways offensive language is expressed
 
 # Data
-- Downloaded replies to news regarding the LGBTQIA+ community, politics, race, religion and women. 
+- 792 replies to news regarding the LGBTQIA+ community, politics, race, religion and women. 
 - Data acquired from the four biggest Brazilian news outlets: Estadão, Folha, G1 and O Globo.
+
+# Annotation
+- Polarity (positive, negative, neutral)
+- Language (offensive, not offensive)
+- POS tags
+- Dependency relations
 
 # Results
 - Two different corpora for different purposes:
