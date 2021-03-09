@@ -1,5 +1,5 @@
 # BrazilianSentimentCorpus
-Mini-project for the Linguistic Corpus Annotation class at the University of Tübingen, Winter semester 2020/2021
+Mini-project for the Linguistic Corpus Annotation course at the University of Tübingen, Winter semester 2020/2021.
 
 # Goals
 - Create a corpus of tweets in Portuguese (non-standard language)
