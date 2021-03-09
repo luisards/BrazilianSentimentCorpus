@@ -17,7 +17,7 @@ Mini-project for the Linguistic Corpus Annotation course at the University of T√
   - Women: 158
 - Data acquired from the four biggest Brazilian news outlets: Estad√£o, Folha, G1 and O Globo.
 
-# Annotation
+# Annotations
 - Polarity (positive, negative, neutral)
 - Language (offensive, not offensive)
 - POS tags
@@ -26,7 +26,7 @@ Mini-project for the Linguistic Corpus Annotation course at the University of T√
 # Results
 - Two different corpora for different purposes:
   - A CSV dataset with polarity and sentiment annotations
-  - A WebAnno TSV dataset with POS, dependency and sentence-level polarity and sentiment annotations 
+  - A WebAnno TSV dataset with POS, dependency relations and sentence-level polarity and sentiment annotations 
 
 # Future work
 - Expand corpus
