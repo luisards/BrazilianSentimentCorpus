@@ -10,10 +10,10 @@ Mini-project for the Linguistic Corpus Annotation course at the University of T√
 
 # Data
 - 792 replies to news regarding the LGBTQIA+ community, politics, race, religion and women. 
- - Religion: 161
- - LGBTQ: 170 
- - pOLITICS: 158
- - Women: 158
+  - Religion: 161
+  - LGBTQ: 170 
+  - pOLITICS: 158
+  - Women: 158
 - Data acquired from the four biggest Brazilian news outlets: Estad√£o, Folha, G1 and O Globo.
 
 # Annotation
