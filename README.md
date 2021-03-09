@@ -9,13 +9,13 @@ Mini-project for the Linguistic Corpus Annotation course at the University of T�
 - Analyze the different ways offensive language is expressed
 
 # Data
+- Data acquired from the four biggest Brazilian news outlets: Estadão, Folha, G1 and O Globo.
 - 792 replies to news regarding the LGBTQIA+ community, politics, race, religion and women. 
   - Religion: 160
   - LGBTQ: 170 
   - Politics: 158
   - Race: 146
   - Women: 158
-- Data acquired from the four biggest Brazilian news outlets: Estadão, Folha, G1 and O Globo.
 
 # Annotations
 - Polarity (positive, negative, neutral)
